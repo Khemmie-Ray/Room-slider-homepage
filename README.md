@@ -79,7 +79,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/Khemmie-Ray/Room-slider-homepage.git)
-- [LiveSite](https://room-homepage-slider.netlify.app/)
+- [LiveSite](https://room-slider-homepage.vercel.app//)
 
 ## My process
 

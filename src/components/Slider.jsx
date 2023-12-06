@@ -34,7 +34,7 @@ const Slider = () => {
     function handlePrev() {
         setIndex(prev => { 
             if(prev === 0) {
-            return  prev = sliderData.length
+            return  prev = sliderData.length -1 
             }
             return prev - 1
         })
